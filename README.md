@@ -1,5 +1,5 @@
 
-# Backend Project
+# Todo-List Backend
 
 This backend project is built using Node.js, Prisma, and MySQL. It uses XAMPP as the local development server for MySQL database management.
 
@@ -119,4 +119,4 @@ backend-project/
 - [Node.js Documentation](https://nodejs.org/)
 - [Prisma Documentation](https://www.prisma.io/docs/)
 - [MySQL Documentation](https://dev.mysql.com/doc/)
-- [XAMPP Documentation](https://www.apachefriends.org/docs.html)
+- [XAMPP Documentation](https://www.apachefriends.org/docs/)
