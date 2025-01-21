@@ -31,7 +31,6 @@ Before running the project, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/Ahmad0933-dev/todo-list-backend.git
-cd backend-project
 ```
 
 ### 2. Install Dependencies
